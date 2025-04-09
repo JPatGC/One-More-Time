@@ -1,0 +1,17 @@
+/* Door Navigation Styles */
+.door-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px; /* Space between links */
+  padding: 10px 0;
+}
+
+.door-nav a {
+  text-decoration: none;
+  color: #3474e6;
+  font-weight: bold;
+}
+
+.door-nav a:hover {
+  color: #555;
+}
